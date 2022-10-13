@@ -6,25 +6,30 @@ nav{
     justify-content: center;
     margin-bottom: 50px;
 }
+
 ul{
     display: flex;
     justify-content: center;
     list-style: none;
     margin: 50px;
 }
+
 li{
     padding-left: 40px;
     padding-right: 30px;
 }
+
 .navleft{
     display: flex;
     margin-top: 30px;
 
 }
+
 .navright li{
     padding-left: 10px;
     
 }
+
 .intro{
     display: flex;
     flex-direction: column;
